@@ -1,0 +1,10 @@
+build
+node_modules
+scripts
+api
+test-coverage
+config
+.vscode
+src/app-config
+/src/app-config
+
